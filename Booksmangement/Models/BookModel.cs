@@ -14,6 +14,6 @@ namespace Booksmangement.Models
         public string DESCRIPTION { get; set; }
         public int TotalPages { get; set; }
         public string Language { get; set; }
-        public int Age { get; set; }
+        public int Ages { get; set; }
     }
 }
