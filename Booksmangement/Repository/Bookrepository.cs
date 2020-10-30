@@ -12,6 +12,9 @@ namespace Booksmangement.Repository
 {
     public class Bookrepository
     {
+        /// <summary>
+        /// 
+        /// </summary>
         private readonly BookStoreContext _context = null;
 
         public Bookrepository(BookStoreContext context)
