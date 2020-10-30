@@ -17,6 +17,7 @@ namespace Booksmangement.Repository
         public Bookrepository(BookStoreContext context)
         {
             _context = context;
+
         }
 
        // public int AddNewBooks(BookModel model)
