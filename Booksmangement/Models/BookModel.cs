@@ -15,6 +15,7 @@ namespace Booksmangement.Models
         public int TotalPages { get; set; }
         public string Language { get; set; }
         public int Ages { get; set; }
+        public int hell { get; set; }
         public int Content { get; set; }
     }
 }
